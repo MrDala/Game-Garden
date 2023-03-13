@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.1",
+    "uuid": "^9.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "start": "react-scripts start dotenv -e .env"
+}

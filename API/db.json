@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "email": "leonalex@free.fr",
+      "username": "Mr_Dala",
+      "firstname": "Alexis",
+      "lastname": "LEON",
+      "birthdate": "1999-01-24",
+      "id": "e221297f-8650-418f-b0d7-84584c784fa2"
+    },
+    {
+      "email": "ita.maknine@etu.u-paris.fr",
+      "username": "Itagura",
+      "firstname": "Ita",
+      "lastname": "",
+      "birthdate": "1999-11-09",
+      "id": "5b8cf9d4-303f-42e6-8eae-ffc2aa2606cd"
+    }
+  ],
+  "wishlists": [
+    {
+      "gamesId": [
+        4200,
+        5286,
+        28,
+        3328,
+        12020,
+        1030,
+        58175,
+        3498
+      ],
+      "userId": "e221297f-8650-418f-b0d7-84584c784fa2",
+      "id": "c6138b3f-64e0-4c7a-881f-b1572d2a8658"
+    },
+    {
+      "gamesId": [
+        2462
+      ],
+      "userId": "5b8cf9d4-303f-42e6-8eae-ffc2aa2606cd",
+      "id": "d8a2699d-00bd-4e52-b2df-1acab015d864"
+    }
+  ]
+}
